@@ -1,0 +1,7 @@
+D:\project\wulian\apiDemo\apiDemo\bin\apiDemo.dll
+D:\project\wulian\apiDemo\apiDemo\bin\apiDemo.pdb
+D:\project\wulian\apiDemo\apiDemo\bin\Newtonsoft.Json.dll
+D:\project\wulian\apiDemo\apiDemo\bin\Newtonsoft.Json.xml
+D:\project\wulian\apiDemo\apiDemo\obj\Debug\apiDemo.dll
+D:\project\wulian\apiDemo\apiDemo\obj\Debug\apiDemo.pdb
+D:\project\wulian\apiDemo\apiDemo\obj\Debug\apiDemo.csprojResolveAssemblyReference.cache

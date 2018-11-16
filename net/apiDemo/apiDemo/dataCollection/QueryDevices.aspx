@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="QueryDevices.aspx.cs" Inherits="apiDemo.dataCollection.QueryDevices" %>
